@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bot_craft/static/css/main.a2fd9e19.css",
+    "main.js": "/bot_craft/static/js/main.f68bc1eb.js",
+    "static/js/453.ed3810f9.chunk.js": "/bot_craft/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/bot_craft/index.html",
+    "main.a2fd9e19.css.map": "/bot_craft/static/css/main.a2fd9e19.css.map",
+    "main.f68bc1eb.js.map": "/bot_craft/static/js/main.f68bc1eb.js.map",
+    "453.ed3810f9.chunk.js.map": "/bot_craft/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2fd9e19.css",
+    "static/js/main.f68bc1eb.js"
+  ]
+}
