@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/botcraft/static/css/main.a2fd9e19.css",
+    "main.js": "/botcraft/static/js/main.a4e308ff.js",
+    "static/js/453.e3120098.chunk.js": "/botcraft/static/js/453.e3120098.chunk.js",
+    "index.html": "/botcraft/index.html",
+    "main.a2fd9e19.css.map": "/botcraft/static/css/main.a2fd9e19.css.map",
+    "main.a4e308ff.js.map": "/botcraft/static/js/main.a4e308ff.js.map",
+    "453.e3120098.chunk.js.map": "/botcraft/static/js/453.e3120098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2fd9e19.css",
+    "static/js/main.a4e308ff.js"
+  ]
+}
